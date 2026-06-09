@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+st
+
+# Nix
+result
+result-*
+
+# Editors
+*~
+.*.swp
+.vscode/
+.idea/
+.direnv/
+.DS_Store
